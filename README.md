@@ -3,6 +3,10 @@
 A simple and interactive Recipe Book web application built using HTML, Bootstrap, and Vanilla JavaScript.
 Users can add, edit, remove, and search recipes dynamically without page reloads.
 
+❔ Problem Statement:
+<img width="1335" height="886" alt="image" src="https://github.com/user-attachments/assets/7039630d-2283-463b-8034-b3dd9e15621c" />
+
+
 🚀 Features
 
 ➕ Add new recipes
