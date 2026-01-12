@@ -58,7 +58,6 @@ function showRecipes() {
     recipes.forEach((item) => {
         container.innerHTML += `
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                <p class="bg-primary-subtle rounded shadow-sm text-center">${item.id}</p>
                 <div class="card h-100">
                     <img src="${item.image}" class="card-img-top" style="height:200px; object-fit:cover">
                     <div class="card-body">
